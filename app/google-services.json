@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "140650753758",
+    "firebase_url": "https://electabuzz-7c03c.firebaseio.com",
+    "project_id": "electabuzz-7c03c",
+    "storage_bucket": "electabuzz-7c03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140650753758:android:c76cda9461645659d31c4f",
+        "android_client_info": {
+          "package_name": "com.example.vignite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140650753758-lm9dmckuhp93t4vra8ul7kajufbr8bbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vignite",
+            "certificate_hash": "91b9afca0e2f11463831f03b55999bd7c4f3928a"
+          }
+        },
+        {
+          "client_id": "140650753758-etsubsa6v4iqhrt16isd4t65g8i0uchl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH7WWbyRvssB1Hd13MeRQIKqUL-cZBiZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140650753758-etsubsa6v4iqhrt16isd4t65g8i0uchl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

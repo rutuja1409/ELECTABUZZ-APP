@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/abt1"
+    tools:context=".aboutelectabuzz">
+
+    <TextView
+        android:layout_width="315dp"
+        android:layout_height="364dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginBottom="31dp"
+        android:text="Electabuzz is a product of our commitment to make changes in the way we manage environment, protect health and secure livelihoods and economic security for all.We believe strongly that we can and must do things differently.Our aim is to bring to you perspectives and knowledge to prepare you to change the world. We believe information is powerful driver for the new TOMORROW."
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginRight="92dp"
+        android:layout_marginBottom="317dp"
+        android:text="About ELECTABUZZ"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="44sp" />
+</RelativeLayout>
